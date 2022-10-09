@@ -2,7 +2,7 @@
 title: Three-Party Windfall Cases
 ---
 
-#Introduction 
+# Introduction 
 
 Consider the following facts:
 
