@@ -2,13 +2,11 @@
 title: Three-Party Windfall Cases
 ---
 
-# Introduction 
+# Facts
 
-Consider the following facts:
+Group contracts with Venue to rent space for a show. Venue separately contracts with Electrician to inspect electrical wiring. Group’s contract with Venue contains a limitation-on-liability clause limiting Venue’s liability to return of rent paid; the Venue-Electrician contract contains no limitation. Although Electrician certifies the wiring as compliant, a fault is later discovered, forcing Group to cancel the show and lose sales in excess of rent payments.
 
-> A music group (Group) contracts with a venue (Venue) to rent space for a show. Venue separately contracts with Electrician to inspect the venue’s existing wiring the day before the show. Group’s contract with Venue contains a limitation-on-liability clause limiting Venue’s liability to return of rent paid; the Venue-Electrician contract contains no limitation. Although Electrician certifies the wiring as compliant, the following night a fault is discovered, forcing Group to cancel the show and lose sales in excess of its rent payments to Venue.
-
-What are Group’s rights against Electrician? Does Group have a tort claim for negligent misrepresentation, based on Electrician’s certification that the wiring was compliant? Could the economic loss rule preclude such an action even if the elements of the tort are otherwise met?
+What are Group’s rights against Electrician?
 
 # Discussion
 
@@ -16,15 +14,35 @@ What are Group’s rights against Electrician? Does Group have a tort claim for 
 
 To make out a claim for negligent misrepresentation, a plaintiff must establish: “(1) the defendant had a pecuniary duty to provide accurate information, (2) the defendant supplied false information, (3) the defendant failed to exercise reasonable care in obtaining or communicating the information, and (4) the plaintiff suffered a pecuniary loss caused by justifiable reliance upon the false information.” *PR Acquisitions, LLC v. Midland Funding LLC*, C.A. No. 2017-0465-TMR, 2018 WL 2041521, at *13 (Del. Ch. Apr. 30, 2018).
 
-Group easily satisfies the first three elements but may struggle to show reliance and loss. As to reliance, while a jury could readily accept that Group would not have booked the venue had it been aware of electrical problems, Group may lack evidence that Electrician’s certification was significant in light of direct assurance’s from Venue and Venue’s reputation in the business. The difficulty is heightened if Group received Electrician’s certification only indirectly. Similarly, Electrician will argue that Group’s lost sales flowed from the inadequacy of the venue itself and could not have been avoided by an inspection one day prior.
+Falsity and lack of due care are satisfied. The challenge for duty and reliance is the indirect relationship between Group and Electrician. It is clear that Electrician owed a pecuniary duty to *someone*. Privity is not required in all negligent misrepresentation cases. *See* *Guardian Construction Co. v. Tetra Tech Richardson, Inc.*, 583 A.2d 1378, 1386 (Del. Super. Ct. 1990). In *Guardian Construction*, the ??? had ???. Following *Guardian Construction*’s reasoning, “indirect” claims for negligent misrepresentation have been allowed by a ??? against a ??? and by a ??? against a ???.
 
-The next hurdle for Group is the lack of direct relationship between it and Electrician. While the Delaware Supreme Court has not spoken on the issue, the Superior Court has persuasively reasoned that direct privity is not a requirement in all negligent misrepresentation cases. *See* *Guardian Construction Co. v. Tetra Tech Richardson, Inc.*, 583 A.2d 1378, 1386 (Del. Super. Ct. 1990). In *Guardian Construction*, the ??? had ???. Following *Guardian Construction*’s reasoning, “indirect” claims for negligent misrepresentation have been allowed by a ??? against a ??? and by a ??? against a ???. Against these precedents, Electrician likely cannot defend merely on the ground that it and Group were not in privity.
+But the lack of a privity requirement does not imply that a duty is owed to all indirect consumers. Electrician’s inspection was for Venue’s benefit, to assist Venue in satisfying its own contractual obligations to Group. The Group–Venue and Venue–Electrician contracts support that conclusion, both because there was no Group–Electrician contract and because Group and Electrician allocated the risk of defects among themselves with no allocation to Electrician.
 
-But the lack of a privity requirement may not be enough for Group, because a plaintiff claiming negligent misrepresentation must still establish a duty of care, *see* ???, and here the indirect relationship between Group and Electrician is again problematic. Electrician will argue that its inspection was solely for Venue’s benefit, to assist Venue in satisfying *its* contractual obligations to Group. Electrician’s argument is supported by the fact that Group and Venue negotiated an allocation of risk for defects in the performance space, but Group undertook no similar negotiation with Electrician—nor indeed any communication with Group at all before the matter turned to litigation. Group may struggle to convince a court to protect its interest in the performance space through imposition of a duty different than the contractual duty owed by Venue.
+Reliance fails for the same reason. While Group would not have booked the venue had it been aware of electrical problems, Group relied on Venue's assurances, not Electrician’s. The strength of Venue’s assurances may have been amplified by factors over which Electrician had no control, such as Venue’s reputation in the business.
+
+In summary, while the state of the law is uncertain, the better view is that Group has no negligent misrepresentation claim against Electrician in these circumstances.
 
 ## Economic Loss Rule
 
+Assuming the elements of negligent misrepresentation are otherwise satisfied, the question becomes whether the claim is nevertheless precluded by the “economic loss rule.”
 
+The economic loss rule ....
+
+The cases are unclear as to whether the economic loss rule acts to preclude an otherwise valid tort claim or whether it is a consideration in deciding whether to impose a tort duty in the first place. If the latter, the satisfaction of the elements of negligent misrepresentation would seem to imply, almost tautologically, that the economic loss rule does not preclude the claim. If the former, it is necessary to separately analyze the economic loss rule to determine whether it presents a barrier.
+
+The economic loss rule typically does not apply to claims against professionals with pecuniary interests in the transaction. ???. That includes Electrician here. Thus, to the extent there is a valid claim for negligent misrepresentation, it is not precluded by the economic loss rule.
 
 ## Effect of Limitation on Liability
+
+The final issue is whether Electrician could invoke the limitation on liability in the Group–Venue contract.
+
+A decision either way would work a windfall to one party. If Group prevails, it is excused from the limitation it negotiated with Venue by the fortuity that the fault could be traced to a contract rather than one of Venue’s employees. If Electrician prevails, it receives a protection from liability it neither negotiated nor paid for. (The existence of either windfall helps explain why the tort of negligent misrepresentation should not extend to such indirect suits in the first place, as it undermines the parties’ ability to allocate risk by contract.)
+
+The cases ???
+
+In the absence of contrary authority, the better view is that the contract should be enforced as written. Because the limitation on liability by its terms applies only to suits by Group against Venue, it is inapplicable in a suit by Group against Electrician.
+
+# Conclusion
+
+The law is unclear, but Group likely cannot satisfy the duty and reliance elements of a claim for negligent misrepresentation. To the extent those elements may be satisfied, the economic loss rule and contractual limitation on liability are inapplicable.
 
